@@ -1,0 +1,7 @@
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\bin\Debug\MyGlobalAdventureConsole.exe.config
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\bin\Debug\MyGlobalAdventureConsole.exe
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\bin\Debug\MyGlobalAdventureConsole.pdb
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\obj\Debug\MyGlobalAdventureConsole.csproj.AssemblyReference.cache
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\obj\Debug\MyGlobalAdventureConsole.csproj.CoreCompileInputs.cache
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\obj\Debug\MyGlobalAdventureConsole.exe
+D:\0 My Files\My Program\Csharp\MyGlobalAdventureConsole\MyGlobalAdventureConsole\obj\Debug\MyGlobalAdventureConsole.pdb
